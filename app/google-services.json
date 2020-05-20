@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "59351116698",
+    "firebase_url": "https://gerayoamahoro-7e8e5.firebaseio.com",
+    "project_id": "gerayoamahoro-7e8e5",
+    "storage_bucket": "gerayoamahoro-7e8e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59351116698:android:c004e1537faad0a22f6823",
+        "android_client_info": {
+          "package_name": "com.gerayo.amahoro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "59351116698-8lj4c9ijo1me1ijuocg6lk0t9t0ha5qb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxy8beJsURUEexYTeHyyYKm_VOcR0cxuk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "59351116698-8lj4c9ijo1me1ijuocg6lk0t9t0ha5qb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
